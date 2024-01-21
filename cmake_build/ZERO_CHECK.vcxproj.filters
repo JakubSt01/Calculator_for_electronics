@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\cmake_build\CMakeFiles\f25baae22c09b144a55643d5a7357886\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7EBB71A2-4009-3577-9279-C80501CFE0AB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

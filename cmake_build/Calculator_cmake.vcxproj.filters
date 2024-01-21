@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\src\data_converter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\src\ele_calc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\src\ele_calcDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\src\pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\data_converter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\ele_calc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\ele_calcDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\elecalc.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4D093ABE-C755-3616-89BD-565315131B21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8A8D3FF4-3CA6-31AB-AC68-3BDC3FAF287B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

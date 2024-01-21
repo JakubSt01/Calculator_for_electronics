@@ -1,0 +1,3 @@
+F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/Calculator_cmake.dir
+F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/ALL_BUILD.dir
+F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/ZERO_CHECK.dir

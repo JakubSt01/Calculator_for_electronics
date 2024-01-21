@@ -1,0 +1,29 @@
+﻿  Building Custom Rule F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/CMakeLists.txt
+  data_converter.cpp
+F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1): warning C4005: '_AFXDLL': macro redefinition
+  (compiling source file '../src/data_converter.cpp')
+  F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1):
+  '_AFXDLL' previously declared on the command line
+  
+  ele_calc.cpp
+F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1): warning C4005: '_AFXDLL': macro redefinition
+  (compiling source file '../src/ele_calc.cpp')
+  F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1):
+  '_AFXDLL' previously declared on the command line
+  
+  ele_calcDlg.cpp
+F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1): warning C4005: '_AFXDLL': macro redefinition
+  (compiling source file '../src/ele_calcDlg.cpp')
+  F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1):
+  '_AFXDLL' previously declared on the command line
+  
+  pch.cpp
+F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1): warning C4005: '_AFXDLL': macro redefinition
+  (compiling source file '../src/pch.cpp')
+  F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\inc\pch.h(12,1):
+  '_AFXDLL' previously declared on the command line
+  
+  Generating Code...
+  Calculator_cmake.vcxproj -> F:\Pliki\Studia\cyganek\PROJEKT_NA_ZAJĘCIA\ele_calc\cmake_build\Debug\Calculator_cmake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,10 @@
+^F:\PLIKI\STUDIA\CYGANEK\PROJEKT_NA_ZAJĘCIA\ELE_CALC\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\Cmake\bin\cmake.exe" -SF:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc -BF:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build --check-stamp-file F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

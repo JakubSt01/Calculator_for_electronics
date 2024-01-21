@@ -119,8 +119,6 @@ namespace data_converter {
 
 
 	bool data_validation::validate_data(string data) {
-		if (data == saved_data) return true;
-		else saved_data = data;
 
 		try {
 			if (data.find("0x") == 0) {

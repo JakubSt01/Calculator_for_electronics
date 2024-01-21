@@ -30,11 +30,7 @@ namespace data_converter {
 		string DEC_handler();
 		string OCT_handler();
 		string HEX_handler();
-
 	private:
-		
-
-
 		string DEC;
 		string BIN;
 		string OCT;

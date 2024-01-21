@@ -1,7 +1,7 @@
 ﻿
 #include "pch.h"
-#include "../inc/framework.h"
-#include "../inc/data_converter.h"
+#include "framework.h"
+#include "data_converter.h"
 
 namespace data_converter {
 
@@ -119,8 +119,6 @@ namespace data_converter {
 
 
 	bool data_validation::validate_data(string data) {
-		if (data == saved_data) return true;
-		else saved_data = data;
 
 		try {
 			if (data.find("0x") == 0) {

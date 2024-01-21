@@ -18,13 +18,13 @@ events:
     message: |
       Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
       Compiler:  
-      Build flags: 
+      Build flags: /DWIN32;/D_WINDOWS;/W3
       Id flags:  
       
       The output was:
       0
       Wersja programu MSBuild 17.8.5+b5265ef37 dla .NET Framework
-      Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 20:13:42.
+      Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 23:14:05.
       
       Projekt "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\3.28.1\\CompilerIdC\\CompilerIdC.vcxproj" w w©«le 1 (domy\xc2\x98lne elementy docelowe).
       PrepareForBuild:
@@ -62,7 +62,7 @@ events:
           Ostrzeľenia: 0
           Liczba b\xc2\x88©d˘w: 0
       
-      Czas, kt˘ry up\xc2\x88ynĄ\xc2\x88: 00:00:00.93
+      Czas, kt˘ry up\xc2\x88ynĄ\xc2\x88: 00:00:00.97
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -82,13 +82,13 @@ events:
     message: |
       Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
       Compiler:  
-      Build flags: 
+      Build flags: /DWIN32;/D_WINDOWS;/W3;/GR;/EHsc
       Id flags:  
       
       The output was:
       0
       Wersja programu MSBuild 17.8.5+b5265ef37 dla .NET Framework
-      Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 20:13:44.
+      Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 23:14:06.
       
       Projekt "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\3.28.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" w w©«le 1 (domy\xc2\x98lne elementy docelowe).
       PrepareForBuild:
@@ -126,7 +126,7 @@ events:
           Ostrzeľenia: 0
           Liczba b\xc2\x88©d˘w: 0
       
-      Czas, kt˘ry up\xc2\x88ynĄ\xc2\x88: 00:00:00.91
+      Czas, kt˘ry up\xc2\x88ynĄ\xc2\x88: 00:00:00.93
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -145,8 +145,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-169mtg"
-      binary: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-169mtg"
+      source: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-fy00r9"
+      binary: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-fy00r9"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -154,49 +154,49 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-169mtg'
+        Change Dir: 'F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-fy00r9'
         
-        Run Build Command(s): "D:/Program Files/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_42294.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "D:/Program Files/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_31b0c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Wersja programu MSBuild 17.8.5+b5265ef37 dla .NET Framework
-        Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 20:13:45.
+        Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 23:14:07.
         
-        Projekt "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\cmTC_42294.vcxproj" w w©«le 1 (domy\xc2\x98lne elementy docelowe).
+        Projekt "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\cmTC_31b0c.vcxproj" w w©«le 1 (domy\xc2\x98lne elementy docelowe).
         PrepareForBuild:
-          Tworzenie katalogu "cmTC_42294.dir\\Debug\\".
+          Tworzenie katalogu "cmTC_31b0c.dir\\Debug\\".
           Dane wyj\xc2\x98ciowe ze strukturĄ sĄ w\xc2\x88Ączone. Formatowanie diagnostyki kompilatora b©dzie odzwierciedla† hierarchi© b\xc2\x88©d˘w. Aby uzyska† wi©cej informacji, zobacz https://aka.ms/cpp/structured-output.
-          Tworzenie katalogu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\Debug\\".
-          Tworzenie katalogu "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\".
+          Tworzenie katalogu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\Debug\\".
+          Tworzenie katalogu "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\".
         InitializeBuildStatus:
-          Trwa tworzenie "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\unsuccessfulbuild", poniewaľ okre\xc2\x98lono "AlwaysCreate".
-          Modyfikowanie "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\unsuccessfulbuild".
+          Trwa tworzenie "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\unsuccessfulbuild", poniewaľ okre\xc2\x98lono "AlwaysCreate".
+          Modyfikowanie "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\unsuccessfulbuild".
         VcpkgTripletSelection:
           Using triplet "x64-windows" from "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\"
           Using normalized configuration "Release"
         ClCompile:
-          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42294.dir\\Debug\\\\" /Fd"cmTC_42294.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_31b0c.dir\\Debug\\\\" /Fd"cmTC_31b0c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ wersja kompilatora optymalizujĄcego 19.38.33134 dla x64
           Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeľone.
-          cl /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42294.dir\\Debug\\\\" /Fd"cmTC_42294.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+          cl /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_31b0c.dir\\Debug\\\\" /Fd"cmTC_31b0c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\Debug\\cmTC_42294.exe" /INCREMENTAL /ILK:"cmTC_42294.dir\\Debug\\cmTC_42294.ilk" /NOLOGO /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib" /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-169mtg/Debug/cmTC_42294.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-169mtg/Debug/cmTC_42294.lib" /MACHINE:X64  /machine:x64 cmTC_42294.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_42294.vcxproj -> F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\Debug\\cmTC_42294.exe
+          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\Debug\\cmTC_31b0c.exe" /INCREMENTAL /ILK:"cmTC_31b0c.dir\\Debug\\cmTC_31b0c.ilk" /NOLOGO /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib" /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-fy00r9/Debug/cmTC_31b0c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-fy00r9/Debug/cmTC_31b0c.lib" /MACHINE:X64  /machine:x64 cmTC_31b0c.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_31b0c.vcxproj -> F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\Debug\\cmTC_31b0c.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\Debug\\cmTC_42294.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\cmTC_42294.write.1u.tlog" "cmTC_42294.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\Debug\\cmTC_31b0c.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\cmTC_31b0c.write.1u.tlog" "cmTC_31b0c.dir\\Debug\\vcpkg.applocal.log"
           'pwsh.exe' is not recognized as an internal or external command,
           operable program or batch file.
-          Polecenie "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\Debug\\cmTC_42294.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\cmTC_42294.write.1u.tlog" "cmTC_42294.dir\\Debug\\vcpkg.applocal.log"" zosta\xc2\x88o zakoäczone przez kod 9009.
-          "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\Debug\\cmTC_42294.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\cmTC_42294.write.1u.tlog" "cmTC_42294.dir\\Debug\\vcpkg.applocal.log"
+          Polecenie "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\Debug\\cmTC_31b0c.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\cmTC_31b0c.write.1u.tlog" "cmTC_31b0c.dir\\Debug\\vcpkg.applocal.log"" zosta\xc2\x88o zakoäczone przez kod 9009.
+          "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\Debug\\cmTC_31b0c.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\cmTC_31b0c.write.1u.tlog" "cmTC_31b0c.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          Usuwanie pliku "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\unsuccessfulbuild".
-          Modyfikowanie "cmTC_42294.dir\\Debug\\cmTC_42294.tlog\\cmTC_42294.lastbuildstate".
-        Kompilowanie projektu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-169mtg\\cmTC_42294.vcxproj" wykonane (domy\xc2\x98lne elementy docelowe).
+          Usuwanie pliku "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\unsuccessfulbuild".
+          Modyfikowanie "cmTC_31b0c.dir\\Debug\\cmTC_31b0c.tlog\\cmTC_31b0c.lastbuildstate".
+        Kompilowanie projektu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-fy00r9\\cmTC_31b0c.vcxproj" wykonane (domy\xc2\x98lne elementy docelowe).
         
         Kompilacja powiod\xc2\x88a si©.
             Ostrzeľenia: 0
             Liczba b\xc2\x88©d˘w: 0
         
-        Czas, kt˘ry up\xc2\x88ynĄ\xc2\x88: 00:00:00.94
+        Czas, kt˘ry up\xc2\x88ynĄ\xc2\x88: 00:00:00.95
         
       exitCode: 0
   -
@@ -208,8 +208,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-3rcyuo"
-      binary: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-3rcyuo"
+      source: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-2sc4d0"
+      binary: "F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ\u0118CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-2sc4d0"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -217,43 +217,43 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-3rcyuo'
+        Change Dir: 'F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJĘCIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-2sc4d0'
         
-        Run Build Command(s): "D:/Program Files/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_348fd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "D:/Program Files/visual studio/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3fb40.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Wersja programu MSBuild 17.8.5+b5265ef37 dla .NET Framework
-        Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 20:13:46.
+        Kompilacja rozpocz©\xc2\x88a si© 21.01.2024 23:14:08.
         
-        Projekt "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\cmTC_348fd.vcxproj" w w©«le 1 (domy\xc2\x98lne elementy docelowe).
+        Projekt "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\cmTC_3fb40.vcxproj" w w©«le 1 (domy\xc2\x98lne elementy docelowe).
         PrepareForBuild:
-          Tworzenie katalogu "cmTC_348fd.dir\\Debug\\".
+          Tworzenie katalogu "cmTC_3fb40.dir\\Debug\\".
           Dane wyj\xc2\x98ciowe ze strukturĄ sĄ w\xc2\x88Ączone. Formatowanie diagnostyki kompilatora b©dzie odzwierciedla† hierarchi© b\xc2\x88©d˘w. Aby uzyska† wi©cej informacji, zobacz https://aka.ms/cpp/structured-output.
-          Tworzenie katalogu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\Debug\\".
-          Tworzenie katalogu "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\".
+          Tworzenie katalogu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\Debug\\".
+          Tworzenie katalogu "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\".
         InitializeBuildStatus:
-          Trwa tworzenie "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\unsuccessfulbuild", poniewaľ okre\xc2\x98lono "AlwaysCreate".
-          Modyfikowanie "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\unsuccessfulbuild".
+          Trwa tworzenie "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\unsuccessfulbuild", poniewaľ okre\xc2\x98lono "AlwaysCreate".
+          Modyfikowanie "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\unsuccessfulbuild".
         VcpkgTripletSelection:
           Using triplet "x64-windows" from "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\"
           Using normalized configuration "Release"
         ClCompile:
-          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_348fd.dir\\Debug\\\\" /Fd"cmTC_348fd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_3fb40.dir\\Debug\\\\" /Fd"cmTC_3fb40.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ wersja kompilatora optymalizujĄcego 19.38.33134 dla x64
           Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeľone.
-          cl /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_348fd.dir\\Debug\\\\" /Fd"cmTC_348fd.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /I"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_3fb40.dir\\Debug\\\\" /Fd"cmTC_3fb40.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\\Program Files\\Cmake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\Debug\\cmTC_348fd.exe" /INCREMENTAL /ILK:"cmTC_348fd.dir\\Debug\\cmTC_348fd.ilk" /NOLOGO /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib" /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-3rcyuo/Debug/cmTC_348fd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-3rcyuo/Debug/cmTC_348fd.lib" /MACHINE:X64  /machine:x64 cmTC_348fd.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_348fd.vcxproj -> F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\Debug\\cmTC_348fd.exe
+          D:\\Program Files\\visual studio\\VC\\Tools\\MSVC\\14.38.33130\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\Debug\\cmTC_3fb40.exe" /INCREMENTAL /ILK:"cmTC_3fb40.dir\\Debug\\cmTC_3fb40.ilk" /NOLOGO /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib" /LIBPATH:"C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-2sc4d0/Debug/cmTC_3fb40.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/Pliki/Studia/cyganek/PROJEKT_NA_ZAJ¨CIA/ele_calc/cmake_build/CMakeFiles/CMakeScratch/TryCompile-2sc4d0/Debug/cmTC_3fb40.lib" /MACHINE:X64  /machine:x64 cmTC_3fb40.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_3fb40.vcxproj -> F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\Debug\\cmTC_3fb40.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\Debug\\cmTC_348fd.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\cmTC_348fd.write.1u.tlog" "cmTC_348fd.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\Debug\\cmTC_3fb40.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\cmTC_3fb40.write.1u.tlog" "cmTC_3fb40.dir\\Debug\\vcpkg.applocal.log"
           'pwsh.exe' is not recognized as an internal or external command,
           operable program or batch file.
-          Polecenie "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\Debug\\cmTC_348fd.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\cmTC_348fd.write.1u.tlog" "cmTC_348fd.dir\\Debug\\vcpkg.applocal.log"" zosta\xc2\x88o zakoäczone przez kod 9009.
-          "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\Debug\\cmTC_348fd.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\cmTC_348fd.write.1u.tlog" "cmTC_348fd.dir\\Debug\\vcpkg.applocal.log"
+          Polecenie "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\Debug\\cmTC_3fb40.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\cmTC_3fb40.write.1u.tlog" "cmTC_3fb40.dir\\Debug\\vcpkg.applocal.log"" zosta\xc2\x88o zakoäczone przez kod 9009.
+          "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\Users\\Jakub\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\Debug\\cmTC_3fb40.exe" "C:\\Users\\Jakub\\vcpkg\\installed\\x64-windows\\bin" "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\cmTC_3fb40.write.1u.tlog" "cmTC_3fb40.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          Usuwanie pliku "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\unsuccessfulbuild".
-          Modyfikowanie "cmTC_348fd.dir\\Debug\\cmTC_348fd.tlog\\cmTC_348fd.lastbuildstate".
-        Kompilowanie projektu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-3rcyuo\\cmTC_348fd.vcxproj" wykonane (domy\xc2\x98lne elementy docelowe).
+          Usuwanie pliku "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\unsuccessfulbuild".
+          Modyfikowanie "cmTC_3fb40.dir\\Debug\\cmTC_3fb40.tlog\\cmTC_3fb40.lastbuildstate".
+        Kompilowanie projektu "F:\\Pliki\\Studia\\cyganek\\PROJEKT_NA_ZAJ¨CIA\\ele_calc\\cmake_build\\CMakeFiles\\CMakeScratch\\TryCompile-2sc4d0\\cmTC_3fb40.vcxproj" wykonane (domy\xc2\x98lne elementy docelowe).
         
         Kompilacja powiod\xc2\x88a si©.
             Ostrzeľenia: 0

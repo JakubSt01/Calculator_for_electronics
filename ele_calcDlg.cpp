@@ -289,8 +289,6 @@ void user_interface::simple_calculator(string data) {
 		}
 	}
 	previous_sign = data;
-	
-
 }
 
 
@@ -299,7 +297,7 @@ void user_interface::set_output(string data ) {
 		clear();
 	}
 	if (output == "0") {
-		if (data == "0" || data == ".") return;
+		if (data == "0") return;
 		actual_number += data;
 		output = data;
 	}
